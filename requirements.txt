@@ -1,0 +1,4 @@
+dbus-python==1.2.18
+libvirt-python==8.2.0
+pycairo==1.21.0
+PyGObject==3.42.0

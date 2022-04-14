@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=cc.lamac.krunner-libvirt
+WorkingDirectory=~
+Exec=/usr/bin/python3 .local/bin/plasma-runner-libvirt.py
